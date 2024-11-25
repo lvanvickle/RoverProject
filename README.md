@@ -34,7 +34,7 @@ in the field of robotics.
   - Continuous Servo: Rotates the ultrasonic sensor for scanning.
   - Jumper Wires: Connect various components.
   - USB-A to USB-B Cable: Connects the Arduino to the Raspberry Pi or a computer.
-  - Web Cam: Captures live video feed for streaming or face recognition.
+  - Webcam: Captures live video feed for streaming or face recognition.
   - Joystick (tested with PS5 controller): Provides manual control for the rover.
 
 ---
