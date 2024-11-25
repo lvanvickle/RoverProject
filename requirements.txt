@@ -1,0 +1,7 @@
+adafruit-circuitpython-motorkit
+pygame
+opencv-python
+face-recognition
+ttkbootstrap
+Pillow
+pyserial
